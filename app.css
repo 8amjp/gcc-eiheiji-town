@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+#bottles {
+    background-color: #27ae60;
+}
+#plastic {
+    background-color: #e67e22;
+}
+#burnable {
+    background-color: #e74c3c;
+}
+#nonburnable {
+    background-color: #8e44ad;
+}
